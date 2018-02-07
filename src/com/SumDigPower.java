@@ -4,7 +4,7 @@ import java.util.*;
 
 class SumDigPower
 {
-
+	// sum of powers
 	public static List<Long> sumDigPow(long a, long b)
 	{
 		List<Long> powerList = new ArrayList();
